@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 I'm currently working on:<br>Learning Cloud Technology, AI and Python  for my upcoming projects and enhancing my portfolio  and AI-powered tools.<br><br>🤝I'm looking to collaborate on:<br>AI-Cloud driven projects, Python development , and open-source contributions related to any  real time application.<br><br>❓I'm looking for help with:<br>Collaborating to any scalable project, improving performance in apps, and refining cloud DevOps practices (CI/CD, Docker, etc.).<br><br>📚 I'm currently learning:<br>Advanced LLM pipelines, DSA for competitive coding, and modern front-end frameworks like React and Tailwind.<br><br>❓Ask me about:<br>Tech Ideas, Myself, content creation, or building end-to-end projects from scratch.<br><br>🎉 Fun fact:<br>I love building projects that combine creativity and automation—if it solves a real problem, I’m all in!<br><br>
+🔧 I'm currently working on:<br>Learning Cloud Technology, AI agent and engineering and Python  for my upcoming projects and enhancing my portfolio  and AI-powered tools.<br><br>🤝I'm looking to collaborate on:<br>AI-Cloud driven projects, Python development , and open-source contributions related to any  real time application.<br><br>❓I'm looking for help with:<br>Collaborating to any scalable project, improving performance in apps, and refining cloud DevOps practices (CI/CD, Docker, etc.).<br><br>📚 I'm currently learning:<br>Cloud Technology , DSA for competitive coding,Python with Machine learning, AI Engineering and Back-end.<br><br>❓Ask me about:<br>Tech Ideas, Myself, content creation, or building end-to-end projects from scratch.<br><br>🎉 Fun fact:<br>I love building projects that combine creativity and automation—if it solves a real problem, I’m all in!<br><br>
 
 
 ## 🌐 Socials:
@@ -25,7 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=abinasharma001&icon=7&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://rzp.io/rzp/yTcibpUO) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://rzp.io/rzp/yTcibpUO) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
