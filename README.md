@@ -2,7 +2,7 @@
 <h1 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/build-I'm%20Abinash%20Sharma-red?style=for-the-badge&logoColor=%23FF0000&logoSize=auto&label=Hi%20%F0%9F%91%8B&labelColor=%23000000&color=%23FF0000"width="400" height="60"></h1>
   
 <h3 align="center">A Passionate Software Developer From India</h3>
-<h1> <img alt="Static Badge" src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-8A2BE2"></h1> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20views&color=0e75b6&style=flat" alt="abinasharma001" />
+<h1> <img alt="Static Badge" src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-8A2BE2"width="200" height="35"></h1> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20views&color=0e75b6&style=flat" alt="abinasharma001" />
   
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
@@ -25,13 +25,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abinasharma001&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo-->
+<!--![](https://github-contributor-stats.vercel.app/api?username=abinasharma001&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abinasharma001&icon=7&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can Help Me By Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://rzp.io/rzp/yTcibpUO) 
 
   
