@@ -1,7 +1,7 @@
 <body>
 <h1 align="center">Hi 👋, I'm Abinash Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
+<h2>Glad to see you here !</h2> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20views&color=0e75b6&style=flat" alt="abinasharma001" />
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 🔧 I'm currently working on:<br>Learning Cloud Technology, AI agent and engineering and Python  for my upcoming projects and enhancing my portfolio  and AI-powered tools.<br><br>🤝I'm looking to collaborate on:<br>AI-Cloud driven projects, Python development , and open-source contributions related to any  real time application.<br><br>❓I'm looking for help with:<br>Collaborating to any scalable project, improving performance in apps, and refining cloud DevOps practices (CI/CD, Docker, etc.).<br><br>📚 I'm currently learning:<br>Cloud Technology , DSA for competitive coding,Python with Machine learning, AI Engineering and Back-end.<br><br>❓Ask me about:<br>Tech Ideas, Myself, content creation, or building end-to-end projects from scratch.<br><br>🎉 Fun fact:<br>I love building projects that combine creativity and automation—if it solves a real problem, I’m all in!<br><br>
