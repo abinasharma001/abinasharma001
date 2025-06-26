@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔧 I'm currently working on:<br>Learning Cloud Technology, AI agent and engineering and Python  for my upcoming projects and enhancing my portfolio  and AI-powered tools.<br><br>🤝I'm looking to collaborate on:<br>AI-Cloud driven projects, Python development , and open-source contributions related to any  real time application.<br><br>❓I'm looking for help with:<br>Collaborating to any scalable project, improving performance in apps, and refining cloud DevOps practices (CI/CD, Docker, etc.).<br><br>📚 I'm currently learning:<br>Cloud Technology , DSA for competitive coding,Python with Machine learning, AI Engineering and Back-end.<br><br>❓Ask me about:<br>Tech Ideas, Myself, content creation, or building end-to-end projects from scratch.<br><br>🎉 Fun fact:<br>I love building projects that combine creativity and automation—if it solves a real problem, I’m all in!<br><br>
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abinash_sharma___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/contactabinashsharma/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Abinash34813061/communities/explore) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@explore_with_abinash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abinasharma001@gmail.com) 
@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=abinasharma001&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abinasharma001&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abinasharma001&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abinasharma001&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
 
