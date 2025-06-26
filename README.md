@@ -32,7 +32,6 @@
 [![](https://visitcount.itsvg.in/api?id=abinasharma001&icon=7&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can Help Me By Donating
-  [![PayPal](https://simpleicons.org/?modal=icon&q=razorpay)](https://rzp.io/rzp/yTcibpUO) 
-
+[![Pay]()](https://rzp.io/rzp/yTcibpUO)
 
   
