@@ -22,6 +22,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abinasharma001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -33,6 +37,8 @@
 
   ## 💰 Click👇🏻To Help Me By Donating
 [![RazorPay](https://img.icons8.com/?size=100&id=UIlTiRUlZuzZ&format=png&color=000000)](https://rzp.io/rzp/yTcibpUO)
+
+
 
 
   
