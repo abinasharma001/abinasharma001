@@ -1,6 +1,5 @@
 <body>
 <h1 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/build-I'm%20Abinash%20Sharma-red?style=for-the-badge&logoColor=%23FF0000&logoSize=auto&label=Hi%20%F0%9F%91%8B&labelColor=%23000000&color=%23FF0000"width="400" height="60"></h1>
-  
 <h3 align="center">A Passionate Software Developer From India</h3>
 <h1> <img alt="Static Badge" src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-8A2BE2"width="200" height="35"></h1> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20views&color=0e75b6&style=flat" alt="abinasharma001" />
 <h3 align="left">Connect with me:</h3>
