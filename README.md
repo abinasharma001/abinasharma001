@@ -20,7 +20,7 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abinasharma001&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false" width="440"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abinasharma001&theme=blueberry&hide_border=false&show_icons=true&count_private=true" width="440"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinasharma001&theme=blueberry&hide_border=false&layout=compact" width="400"/>
 
   <br/>
