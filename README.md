@@ -65,7 +65,7 @@
   </a>
 
   <!-- Stylish Static Follow Button -->
-  <a href="https://livecounts.io/instagram-follower-count/explore_with_abinash" target="_blank">
+  <a href="https://www.instagram.com/explore_with_abinash/" target="_blank">
     <img 
       alt="Instagram" 
       title="Follow me on Instagram" 
