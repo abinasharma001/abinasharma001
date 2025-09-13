@@ -52,17 +52,6 @@
       <a href="https://www.youtube.com/@explore_with_abinash">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCoW3NEm3evBxaRAwMNHrY_g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 
-<!-- Instagram Badge with Live Followers -->
-<!-- Instagram Section -->
-<p align="left">
-  <!-- Live Followers Count -->
-  <a href="https://www.instagram.com/explore_with_abinash/" target="_blank">
-    <img 
-      alt="Instagram Followers" 
-      title="Follow me on Instagram" 
-      src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.nyash.me%2Finstagram%2Fexplore_with_abinash&query=%24.followers&label=Followers&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" 
-    />
-  </a>
 
   <!-- Stylish Static Follow Button -->
   <a href="https://www.instagram.com/explore_with_abinash/" target="_blank">
