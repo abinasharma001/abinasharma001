@@ -46,6 +46,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abinasharma001&icon=7&color=1)](https://visitcount.itsvg.in)
 
+
+## My YouTube Videos
+
+Check out some of my latest videos below:
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- The workflow will automatically insert YouTube cards here -->
+<!-- END YOUTUBE-CARDS -->
+
+---
    <p align="left">
       <a href="https://www.youtube.com/@explore_with_abinash?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCoW3NEm3evBxaRAwMNHrY_g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
