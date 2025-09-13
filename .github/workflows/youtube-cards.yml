@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: DenverCoder1/github-readme-youtube-cards@v2.6.0
+      - uses: DenverCoder1/github-readme-youtube-cards@v1.8.0
         with:
           channel_id: UCoW3NEm3evBxaRAwMNHrY_g
           comment_tag_name: YOUTUBE-CARDS
