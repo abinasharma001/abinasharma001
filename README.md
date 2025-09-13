@@ -59,6 +59,7 @@
 [![Dance Performance/My College Dance Performance/North Orissa University/ MSCB university](https://ytcards.demolab.com/?id=za_UuEZII8g&title=Dance+Performance%2FMy+College+Dance+Performance%2FNorth+Orissa+University%2F+MSCB+university&lang=en&timestamp=1732206457&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=276 "Dance Performance/My College Dance Performance/North Orissa University/ MSCB university")](https://www.youtube.com/watch?v=za_UuEZII8g)
 [![White tiger in Zoo #shorts #ytshorts #pushpa  #pushpa2 #trending #viral #short #zoo #nandankanan #yt](https://ytcards.demolab.com/?id=Ay-UK2kS9Wc&title=White+tiger+in+Zoo+%23shorts+%23ytshorts+%23pushpa++%23pushpa2+%23trending+%23viral+%23short+%23zoo+%23nandankanan+%23yt&lang=en&timestamp=1717480287&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15 "White tiger in Zoo #shorts #ytshorts #pushpa  #pushpa2 #trending #viral #short #zoo #nandankanan #yt")](https://www.youtube.com/shorts/Ay-UK2kS9Wc)
 <!-- END YOUTUBE-CARDS -->
+  <a href="https://www.youtube.com/@explore_with_abinash?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
 
 ---
    <p align="left">
