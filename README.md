@@ -1,6 +1,21 @@
 <p align="center">
+  <img src="https://i.ibb.co/4T9TxYw/circuit-bg.gif" width="100%" alt="Tech Background"/>
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Abinash%20Sharma&width=800&height=200" alt="Abinash Sharma Glitch Banner"/>
+</p>
+
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Abinash%20Sharma&width=800&height=200" alt="Abinash Sharma Glitch Banner"/>
+</p>
+
+
+<p align="center">
   <a href="https://github.com/abinasharma001">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Abinash%20Sharma&fontSize=50&fontColor=ff69b4&animation=fadeIn&fontAlignY=35" alt="Abinash Sharma"/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Abinash+Sharma;XR+%7C+AR+%7C+VR+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -53,7 +68,7 @@
 <!--### 🔝 Top Contributed Repo-->
 <!--![](https://github-contributor-stats.vercel.app/api?username=abinasharma001&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)-->
 
----
+
 [![](https://visitcount.itsvg.in/api?id=abinasharma001&icon=7&color=1)](https://visitcount.itsvg.in)
 
 
@@ -89,6 +104,7 @@
   </a>
 </p>
 
+---
 
   ## 💰 Click👇🏻To Help Me By Donating
 [![RazorPay](https://img.icons8.com/?size=100&id=UIlTiRUlZuzZ&format=png&color=000000)](https://rzp.io/rzp/yTcibpUO)
