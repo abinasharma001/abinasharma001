@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Abinash%20Sharma&width=800&height=200" alt="Abinash Sharma Glitch Banner"/>
 </p>
@@ -15,13 +14,15 @@
 
 <body>
 
-<h3 align="center">A Passionate Software Developer From India</h3>
+<h3 align="center">  Developer From India</h3>
 <h1> <img alt="Static Badge" src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-8A2BE2"width="200" height="35"></h1> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20views&color=0e75b6&style=flat" alt="abinasharma001" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/contactabinashsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi" height="30" width="40"></a>
 </p>
-  
+
+#  🏄‍♂️ Abinash Sharma
+
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 🔧 I'm currently working on:<br>Learning Cloud Technology, AI agent and engineering and Python  for my upcoming projects and enhancing my portfolio  and AI-powered tools.<br><br>🤝I'm looking to collaborate on:<br>AI-Cloud driven projects, Python development , and open-source contributions related to any  real time application.<br><br>❓I'm looking for help with:<br>Collaborating to any scalable project, improving performance in apps,refining and designing the app.<br><br>📚 I'm currently learning:<br>Cloud Technology , DSA for competitive coding,Python with Machine learning, AI Engineering ,cloud DevOps practices (CI/CD, Docker, etc.) and Back-end.<br><br>❓Ask me about:<br>Tech Ideas, Myself, content creation, or building end-to-end projects from scratch, Collaboration, Tech Support.<br><br>🎉 Fun fact:<br>I love building projects that combine creativity and automation—if it solves a real problem, I’m all in!<br><br>
