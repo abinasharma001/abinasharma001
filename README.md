@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/4T9TxYw/circuit-bg.gif" width="100%" alt="Tech Background"/>
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Abinash%20Sharma&width=800&height=200" alt="Abinash Sharma Glitch Banner"/>
-</p>
-
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Abinash%20Sharma&width=800&height=200" alt="Abinash Sharma Glitch Banner"/>
@@ -14,14 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/abinasharma001">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Abinash+Sharma;XR+%7C+AR+%7C+VR+Developer;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Developer%2C%20Content%20Creator%20Who%20Always%20Learning;MCA%20Graduate%20Interested%20in%20Cloud%20Technologies%20%26%20AI%20Solutions;AR%2FVR%20%26%20Gen%20AI%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Unity;Passionate%20About%20Innovative%20Software%20Solutions&font=Fira%20Code&center=true&width=950&height=45&duration=4000&pause=1000&color=FFD700&color2=FF8C00&vCenter=true&size=22&cursor=underscore" />
 </p>
-
 
 <body>
 
