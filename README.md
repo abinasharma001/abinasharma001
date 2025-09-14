@@ -15,6 +15,12 @@
 <body>
 
 <h3 align="center">  Developer From India</h3>
+<img align="right" 
+     alt="coding" 
+     width="400" 
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdxZXh0M2NlZHU2eTdpMHFyanR2OTZpODdscDAyeTgzNnltcnRlaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NHvv0Bo3oGq1eTBDd1/giphy.gif" 
+     style="border-radius: 100;">
+
 <h1> <img alt="Static Badge" src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-8A2BE2"width="200" height="35"></h1> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20views&color=0e75b6&style=flat" alt="abinasharma001" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
