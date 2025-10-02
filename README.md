@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Developer%2C%20Content%20Creator%20Who%20Always%20Learning;MCA%20Graduate%20Interested%20in%20Cloud%20Technologies%20%26%20AI%20Solutions;AR%2FVR%20%26%20Gen%20AI%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Unity;Passionate%20About%20Innovative%20Software%20Solutions&font=Fira%20Code&center=true&width=980&height=45&duration=4000&pause=1000&color=FFD700&color2=FF8C00&vCenter=true&size=28&cursor=underscore" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Developer%2C%20Content%20Creator%20Who%20Always%20Learning;MCA%20Graduate%20Interested%20in%20Cloud%20Technologies%20%26%20AI%20Solutions;AR%2FVR%20%26%20Gen%20AI%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Unity;Passionate%20About%20Innovative%20Software%20Solutions&font=Fira%20Code&center=true&width=990&height=44&duration=4000&pause=1000&color=FFD700&color2=FF8C00&vCenter=true&size=26&cursor=underscore" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <body>
 
-<h3 align="center">  Developer From India</h3>
+<h3 align="center">  Developer From India <img src="https://flagcdn.com/w20/in.png" width="20"/></h3>  
 <img align="right" 
      alt="coding" 
      width="400" 
