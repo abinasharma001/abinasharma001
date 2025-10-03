@@ -22,11 +22,13 @@
 
 <h1> <img alt="Static Badge" src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-8A2BE2"width="200" height="35"></h1> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20views&color=0e75b6&style=flat" alt="abinasharma001" />
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/contactabinashsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi" height="30" width="40"></a>
-<a href="mailto:abinasharma001@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="abhi" height="34" width="40"></a>
-<a href="https://www.instagram.com/abinash_sharma___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/contactabinashsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="mailto:abinasharma001@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/abinash_sharma___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
 </p>
+
 
 #  🏄‍♂️ Abinash Sharma
  <div align="left">
@@ -84,6 +86,9 @@
   
 </div>
 
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abinasharma001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -97,11 +102,10 @@
 
 <!--### 🔝 Top Contributed Repo-->
 <!--![](https://github-contributor-stats.vercel.app/api?username=abinasharma001&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)-->
-
-
 [![](https://visitcount.itsvg.in/api?id=abinasharma001&icon=7&color=1)](https://visitcount.itsvg.in)
-
-
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
  <summary><h2>📺 Latest YouTube Videos</h2></summary>
 
  ---
