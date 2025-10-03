@@ -25,6 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/contactabinashsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi" height="30" width="40"></a>
+<a href="mailto:abinasharma001@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="abhi" height="34" width="40"></a>
 </p>
 
 #  🏄‍♂️ Abinash Sharma
