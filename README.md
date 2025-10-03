@@ -1,3 +1,5 @@
+[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
+]()
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Abinash%20Sharma&width=800&height=200" alt="Abinash Sharma Glitch Banner"/>
 </p>
@@ -15,10 +17,8 @@
 <body>
 
 <h3 align="center">  Developer From India <img src="https://flagcdn.com/w20/in.png" width="20"/></h3>  
-<img align="right" 
-     alt="coding" 
-     width="400" 
-  src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" 
+<img align="right"  
+     width="400"  
      style="border-radius: 100;">
 
 <h1> <img alt="Static Badge" src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-8A2BE2"width="200" height="35"></h1> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20views&color=0e75b6&style=flat" alt="abinasharma001" />
