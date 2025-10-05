@@ -20,7 +20,21 @@
      width="400"  
      style="border-radius: 100;">
 
-<h1> <img alt="Static Badge" src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-8A2BE2"width="200" height="35"></h1> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20views&color=0e75b6&style=flat" alt="abinasharma001" />
+<h3 align="left">
+  <img 
+    alt="Glad To See You Here!" 
+    src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-8A2BE2?style=for-the-badge&logoColor=white"
+    width="180"
+    height="30"
+  >
+</h3>
+ &nbsp;&nbsp;<img 
+  src="https://komarev.com/ghpvc/?username=abinasharma001&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+  alt="Profile Views"
+  width="150"
+  height="28"
+/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/contactabinashsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
