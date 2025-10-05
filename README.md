@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <body>
 
-<h3 align="center">  Developer From India <img src="https://flagcdn.com/w20/in.png" width="20"/></h3>  
+<h3 align="center">  Developer From India</h3>  
 <img align="right"  
      width="400"  
      style="border-radius: 100;">
