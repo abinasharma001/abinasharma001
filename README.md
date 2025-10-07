@@ -154,7 +154,7 @@
 
 ---
 
-  ## 💰 Click👇🏻To Help Me By Donating
+  ## 💰 Buy Me a Coffee ☕ 👇🏻
 [![RazorPay](https://img.icons8.com/?size=100&id=UIlTiRUlZuzZ&format=png&color=000000)](https://rzp.io/rzp/yTcibpUO)
 
 
