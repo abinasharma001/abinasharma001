@@ -106,6 +106,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abinasharma001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![An image of @abinasharma001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abinasharma001)](https://holopin.io/@abinasharma001)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
