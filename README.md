@@ -54,7 +54,7 @@
 </div>
 
 # 💫 About Me:
-<img align="right" alt="coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
+<img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
 🔧 I'm currently working on:<br>Learning Cloud Technology, AI agent and engineering and Python  for my upcoming projects and enhancing my portfolio  and AI-powered tools.<br><br>🤝I'm looking to collaborate on:<br>AI-Cloud driven projects, Python development , and open-source contributions related to any  real time application.<br><br>❓I'm looking for help with:<br>Collaborating to any scalable project, improving performance in apps,refining and designing the app.<br><br>📚 I'm currently learning:<br>Cloud Technology , DSA for competitive coding,Python with Machine learning, AI Engineering ,cloud DevOps practices (CI/CD, Docker, etc.) and Back-end.<br><br>❓Ask me about:<br>Tech Ideas, Myself, content creation, or building end-to-end projects from scratch, Collaboration, Tech Support.<br><br>🎉 Fun fact:<br>I love building projects that combine creativity and automation—if it solves a real problem, I’m all in!<br><br>
 
 
