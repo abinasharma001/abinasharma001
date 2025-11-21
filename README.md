@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Aarsh30/Aarsh30/blob/main/12.png" width="1000">
+    <img src="jp.gif" width="1000">
 </p>
 
 ![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
