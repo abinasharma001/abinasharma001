@@ -55,6 +55,10 @@
 
 # 💫 About Me:
 <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
+
+- 🍁I love to explore new technologies to refine my skills and contribute to interactive projects.
+- 🌟 My journey into coding began with a curiosity to create, automate, and solve real life problems
+  
 🔧 I'm currently working on:<br>Learning Cloud Technology, AI agent and engineering and Python  for my upcoming projects and enhancing my portfolio  and AI-powered tools.<br><br>🤝I'm looking to collaborate on:<br>AI-Cloud driven projects, Python development , and open-source contributions related to any  real time application.<br><br>❓I'm looking for help with:<br>Collaborating to any scalable project, improving performance in apps,refining and designing the app.<br><br>📚 I'm currently learning:<br>Cloud Technology , DSA for competitive coding,Python with Machine learning, AI Engineering ,cloud DevOps practices (CI/CD, Docker, etc.) and Back-end.<br><br>❓Ask me about:<br>Tech Ideas, Myself, content creation, or building end-to-end projects from scratch, Collaboration, Tech Support.<br><br>🎉 Fun fact:<br>I love building projects that combine creativity and automation—if it solves a real problem, I’m all in!<br><br>
 
 
@@ -95,12 +99,13 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abinasharma001&theme=blueberry&hide_border=false&show_icons=true&count_private=true" width="440"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinasharma001&theme=blueberry&hide_border=false&layout=compact" width="400"/>
-
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=abinasharma001&theme=blueberry&hide_border=false" width="500"/>
   <br/>
+
+![Stats](https://github-stats-alpha.vercel.app/api?username=abinasharma001&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff)
+
+
   
 </div>
 
@@ -110,14 +115,12 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abinasharma001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-[![An image of @abinasharma001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abinasharma001)](https://holopin.io/@abinasharma001)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!--### 🔝 Top Contributed Repo-->
 <!--![](https://github-contributor-stats.vercel.app/api?username=abinasharma001&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)-->
@@ -125,6 +128,10 @@
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abinasharma001&theme=radical)
+
+
  <summary><h2>📺 Latest YouTube Videos</h2></summary>
 
  ---
@@ -156,6 +163,11 @@
     />
   </a>
 </p>
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
