@@ -131,6 +131,8 @@
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abinasharma001&theme=radical)
 
+![Abinash Sharma GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinasharma001&show_icons=true&theme=nightowl&hide_border=true)
+
 
  <summary><h2>📺 Latest YouTube Videos</h2></summary>
 
@@ -171,7 +173,9 @@
 
 ---
 
-![Abinash Sharma GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinasharma001&show_icons=true&theme=nightowl&hide_border=true)
+
+![3D Contributions - Night Rainbow](https://raw.githubusercontent.com/abinasharma001/abinasharma001/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
   ## 💰 Buy Me a Coffee ☕ 👇🏻
