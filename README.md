@@ -131,7 +131,6 @@
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abinasharma001&theme=radical)
 
-![Abinash Sharma GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinasharma001&show_icons=true&theme=nightowl&hide_border=true)
 
 
  <summary><h2>📺 Latest YouTube Videos</h2></summary>
@@ -176,6 +175,15 @@
 
 ![3D Contributions - Night Rainbow](https://raw.githubusercontent.com/abinasharma001/abinasharma001/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
 
+---
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
+</picture>
+</p>
 
 
   ## 💰 Buy Me a Coffee ☕ 👇🏻
