@@ -63,19 +63,7 @@
 
 
 # 💻 Tech Stack:
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /></a>
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /></a>
-  <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" /></a>
-  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" title="Google Cloud" /></a>
-  <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify" /></a>
-  </p>
+
 <p align="center">
   <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity" /></a>
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" /></a>
@@ -125,8 +113,12 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+        <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
+      <br>Google Cloud Platform
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
     </td>
   </tr>
   <tr>
@@ -150,8 +142,12 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+      <br>Windows
+    </td>
+                  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
   </tr>
  <tr>
@@ -168,20 +164,20 @@
       <br>WordPress
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+      <br>Unity
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
+        <img src="https://cdn-icons-png.flaticon.com/512/6479/6479463.png" width="48" height="48" alt="AR/VR" />
+      <br>AR/VR
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>VsCode
+      <br>Gitlab
     </td>
  </tr>
 </table>
