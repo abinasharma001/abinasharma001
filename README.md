@@ -62,28 +62,6 @@
 🔧 I'm currently working on:<br>Learning Cloud Technology, AI agent and engineering and Python  for my upcoming projects and enhancing my portfolio  and AI-powered tools.<br><br>🤝I'm looking to collaborate on:<br>AI-Cloud driven projects, Python development , and open-source contributions related to any  real time application.<br><br>❓I'm looking for help with:<br>Collaborating to any scalable project, improving performance in apps,refining and designing the app.<br><br>📚 I'm currently learning:<br>Cloud Technology , DSA for competitive coding,Python with Machine learning, AI Engineering ,cloud DevOps practices (CI/CD, Docker, etc.) and Back-end.<br><br>❓Ask me about:<br>Tech Ideas, Myself, content creation, or building end-to-end projects from scratch, Collaboration, Tech Support.<br><br>🎉 Fun fact:<br>I love building projects that combine creativity and automation—if it solves a real problem, I’m all in!<br><br>
 
 
-# 💻 Tech Stack:
-
-<p align="center">
-  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" /></a>
-  <a href="https://learn.microsoft.com/powershell/"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" title="PowerShell" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Visual Studio Code" /></a>
-<!-- Artificial Intelligence (generic AI icon) -->
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="48" alt="AI" title="Artificial Intelligence" /></a>
- <!-- AR/VR -->
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6479/6479463.png" alt="AR/VR" title="Augmented / Virtual Reality" width="48" /></a>
-  <!-- Troubleshooting / IT Support -->
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3523/3523063.png" alt="IT Support" title="IT / Technical Support" width="48" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>
-  <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" /></a>
-  <a href="https://auth0.com/"><img src="https://skillicons.dev/icons?i=auth" alt="Auth0" title="Auth0" /></a></div>
-  </p>
-   
----
-
 ---
 
 # 💻 My favorite tools and technologies
