@@ -250,6 +250,26 @@
 ## 🏅 Certifications & Badges
 
 <!-- CREDLY_BADGES_START -->
+| Badge | Name | Issuer | Year |
+|------|------|--------|------|
+| <img src='https://images.credly.com/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png' width='80'/> | [—](#) | issued by Coursera and authorized by IBM | 2026 |
+| <img src='https://images.credly.com/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png' width='80'/> | [—](#) | issued by Coursera and authorized by IBM | 2026 |
+| <img src='https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob' width='80'/> | [—](#) | issued by Aviatrix | 2026 |
+| <img src='https://images.credly.com/images/74e18558-da29-41a1-9850-fa73231327a0/image.png' width='80'/> | [—](#) | issued by Coursera and authorized by IBM | 2025 |
+| <img src='https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png' width='80'/> | [—](#) | issued by ISC2 | 2025 |
+| <img src='https://images.credly.com/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png' width='80'/> | [—](#) | issued by IBM SkillsBuild | 2025 |
+| <img src='https://images.credly.com/images/8b1dd44e-9a13-420b-b755-d100b13f1321/image.png' width='80'/> | [—](#) | issued by Coursera and authorized by IBM | 2025 |
+| <img src='https://images.credly.com/images/bad47198-deb5-48db-bbc3-85adb64db125/blob' width='80'/> | [—](#) | issued by McKinsey & Company | 2025 |
+| <img src='https://images.credly.com/images/4ddcd71a-7d89-4f86-bb85-adab564f16f1/image.png' width='80'/> | [—](#) | issued by Google Cloud | 2024 |
+| <img src='https://images.credly.com/images/0943ce78-1ef7-4ff4-8ad7-4b60f6de5e5f/image.png' width='80'/> | [—](#) | issued by Google Cloud | 2024 |
+| <img src='https://images.credly.com/images/5aa8a83f-22d6-4aa2-9a65-f95290187ce3/image.png' width='80'/> | [—](#) | issued by Google Cloud | 2024 |
+| <img src='https://images.credly.com/images/1aa38026-5e9d-45f5-becc-288601568ad5/image.png' width='80'/> | [—](#) | issued by Google Cloud | 2024 |
+| <img src='https://images.credly.com/images/6f45928f-206d-4340-98fd-ef9605fd8606/image.png' width='80'/> | [—](#) | issued by Google Cloud | 2024 |
+| <img src='https://images.credly.com/images/79d45afd-9552-447b-96d0-b4c2037f59be/image.png' width='80'/> | [—](#) | issued by Google Cloud | 2024 |
+| <img src='https://images.credly.com/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png' width='80'/> | [—](#) | issued by Google Cloud | 2024 |
+| <img src='https://images.credly.com/images/8fae0693-0a1a-4c15-b3b6-10b4104d0e30/image.png' width='80'/> | [—](#) | issued by Google Cloud | 2024 |
+| <img src='https://images.credly.com/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png' width='80'/> | [—](#) | issued by Google Cloud | 2024 |
+| <img src='https://images.credly.com/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png' width='80'/> | [—](#) | issued by OPSWAT | 2024 |
 <!-- CREDLY_BADGES_END -->
 
 
