@@ -14,7 +14,9 @@ cards = []
 for badge in badges:
     name = badge.get("name", "")
     image = badge.get("image_url", "")
-    url = badge.get("url", "#")
+    url = (badge.get("badge_template", {}).get("url")
+    or badge.get("url")
+    or "https://www.credly.com/users/abinash-sharma.8f49b107")
     issuer = badge.get("issuer", {}).get("summary", "")
     year = badge.get("issued_at", "")[:4]
 
