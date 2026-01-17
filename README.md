@@ -248,7 +248,7 @@
 ---
 
 <p align="center">
-  <img src="https://pacman.abozanona.me?username=abinasharma001">
+  <img src="pacman-contributions.svg">
 </p>
 
 
