@@ -247,6 +247,15 @@
 
 ---
 
+## 🏅 Certifications & Badges
+
+<!-- CREDLY_BADGES_START -->
+<!-- CREDLY_BADGES_END -->
+
+
+
+---
+
 <p align="center">
   <img src="pacman-contributions.svg">
 </p>
