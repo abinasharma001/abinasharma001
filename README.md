@@ -248,11 +248,7 @@
 ---
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://pacman.abozanona.me?username=abinasharma001">
-</picture>
+  <img src="https://pacman.abozanona.me?username=abinasharma001">
 </p>
 
 
