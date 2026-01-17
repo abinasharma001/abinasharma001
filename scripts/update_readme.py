@@ -1,5 +1,4 @@
 import json
-from datetime import datetime
 
 BADGES_JSON = "badges.json"
 README_FILE = "README.md"
@@ -8,26 +7,35 @@ START = "<!-- CREDLY_BADGES_START -->"
 END = "<!-- CREDLY_BADGES_END -->"
 
 with open(BADGES_JSON, "r", encoding="utf-8") as f:
-    data = json.load(f)["data"]
+    badges = json.load(f)["data"]
 
-rows = []
-for badge in data:
-    name = badge.get("name", "—")
-    issuer = badge.get("issuer", {}).get("summary", "—")
-    issued_at = badge.get("issued_at", "")
-    year = issued_at[:4] if issued_at else "—"
+cards = []
+
+for badge in badges:
+    name = badge.get("name", "")
     image = badge.get("image_url", "")
     url = badge.get("url", "#")
+    issuer = badge.get("issuer", {}).get("summary", "")
+    year = badge.get("issued_at", "")[:4]
 
-    rows.append(
-        f"| <img src='{image}' width='80'/> | [{name}]({url}) | {issuer} | {year} |"
-    )
+    card = f"""
+    <a href="{url}" target="_blank" title="{issuer} ({year})"
+       style="text-decoration:none;">
+      <img src="{image}" width="90" alt="{name}" />
+    </a>
+    """
+    cards.append(card.strip())
 
-table = (
-    "| Badge | Name | Issuer | Year |\n"
-    "|------|------|--------|------|\n"
-    + "\n".join(rows)
-)
+html_block = f"""
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+">
+  {' '.join(cards)}
+</div>
+"""
 
 with open(README_FILE, "r", encoding="utf-8") as f:
     content = f.read()
@@ -39,7 +47,7 @@ new_content = (
     content.split(START)[0]
     + START
     + "\n"
-    + table
+    + html_block
     + "\n"
     + END
     + content.split(END)[1]
@@ -48,4 +56,4 @@ new_content = (
 with open(README_FILE, "w", encoding="utf-8") as f:
     f.write(new_content)
 
-print("✅ README.md updated with Credly badges")
+print("✅ README updated with horizontal Credly badges")
