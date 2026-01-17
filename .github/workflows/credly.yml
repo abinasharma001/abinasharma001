@@ -1,0 +1,35 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs once per day
+  workflow_dispatch:     # Allows manual run
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Fetch Credly badges JSON
+        run: |
+          curl -s https://www.credly.com/users/abinash-sharma.8f49b107/badges.json > badges.json
+
+      - name: Update README.md
+        run: |
+          python scripts/update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto-update Credly badges" || echo "No changes to commit"
+          git push
