@@ -257,7 +257,10 @@
   gap: 16px;
   align-items: center;
 ">
-  <a href="https://www.credly.com/org/coursera/badge/devops-essentials.2" target="_blank" title="issued by Coursera and authorized by IBM (2026)"
+  <a href="https://www.credly.com/org/coursera/badge/google-it-support-professional-certificate-v-3" target="_blank" title="issued by Coursera (2026)"
+       style="text-decoration:none;">
+      <img src="https://images.credly.com/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" width="90" alt="" />
+    </a> <a href="https://www.credly.com/org/coursera/badge/devops-essentials.2" target="_blank" title="issued by Coursera and authorized by IBM (2026)"
        style="text-decoration:none;">
       <img src="https://images.credly.com/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="90" alt="" />
     </a> <a href="https://www.credly.com/org/coursera/badge/introduction-to-cloud-computing" target="_blank" title="issued by Coursera and authorized by IBM (2026)"
