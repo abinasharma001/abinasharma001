@@ -281,7 +281,7 @@
     </a> <a href="https://www.credly.com/org/coursera/badge/technical-support-basics" target="_blank" title="issued by Coursera and authorized by IBM (2025)"
        style="text-decoration:none;">
       <img src="https://images.credly.com/images/8b1dd44e-9a13-420b-b755-d100b13f1321/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/mckinsey-academy/badge/mckinsey-org-forward-program" target="_blank" title="issued by McKinsey & Company (2025)"
+    </a> <a href="https://www.credly.com/org/mckinsey-org/badge/mckinsey-org-forward-program" target="_blank" title="issued by McKinsey.org (2025)"
        style="text-decoration:none;">
       <img src="https://images.credly.com/images/bad47198-deb5-48db-bbc3-85adb64db125/blob" width="90" alt="" />
     </a> <a href="https://www.credly.com/org/google-cloud/badge/cloud-speech-api-3-ways-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
