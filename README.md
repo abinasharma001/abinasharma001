@@ -257,7 +257,10 @@
   gap: 16px;
   align-items: center;
 ">
-  <a href="https://www.credly.com/org/coursera/badge/google-it-support-professional-certificate-v-3" target="_blank" title="issued by Coursera (2026)"
+  <a href="https://www.credly.com/org/servicenow-new/badge/certified-implementation-specialist-data-foundation" target="_blank" title="issued by ServiceNow (2026)"
+       style="text-decoration:none;">
+      <img src="https://images.credly.com/images/1c3da05b-4351-4564-937b-5ae3add49a97/blob" width="90" alt="" />
+    </a> <a href="https://www.credly.com/org/coursera/badge/google-it-support-professional-certificate-v-3" target="_blank" title="issued by Coursera (2026)"
        style="text-decoration:none;">
       <img src="https://images.credly.com/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" width="90" alt="" />
     </a> <a href="https://www.credly.com/org/coursera/badge/devops-essentials.2" target="_blank" title="issued by Coursera and authorized by IBM (2026)"
@@ -275,6 +278,9 @@
     </a> <a href="https://www.credly.com/org/isc2/badge/isc2-candidate" target="_blank" title="issued by ISC2 (2025)"
        style="text-decoration:none;">
       <img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="90" alt="" />
+    </a> <a href="https://www.credly.com/org/servicenow-new/badge/micro-certification-welcome-to-servicenow" target="_blank" title="issued by ServiceNow (2025)"
+       style="text-decoration:none;">
+      <img src="https://images.credly.com/images/5a1dc59c-5961-40f6-88dd-3e6c366a3620/Credential_Badge_-_Micro-Cert_-_Welcome_to_ServiceNow.png" width="90" alt="" />
     </a> <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence" target="_blank" title="issued by IBM SkillsBuild (2025)"
        style="text-decoration:none;">
       <img src="https://images.credly.com/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png" width="90" alt="" />
