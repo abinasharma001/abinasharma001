@@ -257,7 +257,10 @@
   gap: 16px;
   align-items: center;
 ">
-  <a href="https://www.credly.com/org/servicenow-new/badge/certified-implementation-specialist-data-foundation" target="_blank" title="issued by ServiceNow (2026)"
+  <a href="https://www.credly.com/org/microsoft-certification/badge/ai-skills-fest-2026" target="_blank" title="issued by Microsoft (2026)"
+       style="text-decoration:none;">
+      <img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="90" alt="" />
+    </a> <a href="https://www.credly.com/org/servicenow-new/badge/certified-implementation-specialist-data-foundation" target="_blank" title="issued by ServiceNow (2026)"
        style="text-decoration:none;">
       <img src="https://images.credly.com/images/1c3da05b-4351-4564-937b-5ae3add49a97/blob" width="90" alt="" />
     </a> <a href="https://www.credly.com/org/coursera/badge/google-it-support-professional-certificate-v-3" target="_blank" title="issued by Coursera (2026)"
