@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Generated previews
+assets/photos/ascii_preview.txt
+assets/photos/source-prepped.png
+
+# VS Code
+.vscode/

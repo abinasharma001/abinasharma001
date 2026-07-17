@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="670" viewBox="0 0 920 670" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#111722"/>
+<stop offset="100%" stop-color="#0d1117"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="920" height="670" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="919" height="669" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+<line x1="0" y1="34" x2="920" y2="34" stroke="#30363d"/>
+<circle cx="22" cy="17.0" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="17.0" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="17.0" r="6" fill="#27c93f"/>
+<text x="460.0" y="22.0" font-size="13" fill="#8b949e" text-anchor="middle">abinash@github: ~$ neofetch</text>
+<text x="28" y="82" font-size="18" font-weight="600">
+<tspan fill="#3fb950">abinash</tspan>
+<tspan fill="#f0f6fc">@</tspan>
+<tspan fill="#58a6ff">github</tspan>
+</text>
+<line x="160" y1="75" x2="890" y2="75" stroke="#30363d" stroke-width="1"/>
+<text x="28" y="120" font-size="14" fill="#ffa657" font-weight="600">Now</text>
+<text x="165" y="120" font-size="14" fill="#f0f6fc">Software Developer</text>
+<text x="28" y="152" font-size="14" fill="#ffa657" font-weight="600">Previous</text>
+<text x="165" y="152" font-size="14" fill="#f0f6fc">XR Developer Intern</text>
+<text x="28" y="184" font-size="14" fill="#ffa657" font-weight="600">Education</text>
+<text x="165" y="184" font-size="14" fill="#f0f6fc">MCA • 2025</text>
+<text x="28" y="216" font-size="14" fill="#ffa657" font-weight="600">Location</text>
+<text x="165" y="216" font-size="14" fill="#f0f6fc">India</text>
+<text x="28" y="280" font-size="18" font-weight="600" fill="#58a6ff">− Stack</text>
+<line x="145" y1="273" x2="890" y2="273" stroke="#30363d" stroke-width="1"/>
+<text x="28" y="320" font-size="14" fill="#ffa657" font-weight="600">Languages</text>
+<text x="165" y="320" font-size="14" fill="#f0f6fc">Python, JavaScript, C</text>
+<text x="28" y="352" font-size="14" fill="#ffa657" font-weight="600">Frontend</text>
+<text x="165" y="352" font-size="14" fill="#f0f6fc">HTML, CSS, React</text>
+<text x="28" y="384" font-size="14" fill="#ffa657" font-weight="600">Backend</text>
+<text x="165" y="384" font-size="14" fill="#f0f6fc">FastAPI, Django</text>
+<text x="28" y="416" font-size="14" fill="#ffa657" font-weight="600">Cloud</text>
+<text x="165" y="416" font-size="14" fill="#f0f6fc">Azure, AWS, GCP, Oracle</text>
+<text x="28" y="448" font-size="14" fill="#ffa657" font-weight="600">AI / ML</text>
+<text x="165" y="448" font-size="14" fill="#f0f6fc">GenAI, RAG, Watsonx</text>
+<text x="28" y="500" font-size="18" font-weight="600" fill="#58a6ff">− Highlights</text>
+<line x="185" y1="493" x2="890" y2="493" stroke="#30363d" stroke-width="1"/>
+<circle cx="36" cy="530" r="4" fill="#3fb950"/>
+<text x="54" y="535" font-size="14" fill="#f0f6fc">Developer &amp; Content Creator</text>
+<circle cx="36" cy="562" r="4" fill="#3fb950"/>
+<text x="54" y="567" font-size="14" fill="#f0f6fc">AI &amp; Cloud Enthusiast</text>
+<circle cx="36" cy="594" r="4" fill="#3fb950"/>
+<text x="54" y="599" font-size="14" fill="#f0f6fc">XR Developer @ NIT Rourkela</text>
+<circle cx="36" cy="626" r="4" fill="#3fb950"/>
+<text x="54" y="631" font-size="14" fill="#f0f6fc">Open Source Contributor</text>
+</svg>
