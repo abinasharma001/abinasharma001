@@ -268,72 +268,93 @@
   align-items: center;
 ">
   <a href="https://www.credly.com/org/microsoft-certification/badge/ai-skills-fest-2026" target="_blank" title="issued by Microsoft (2026)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/servicenow-new/badge/certified-implementation-specialist-data-foundation" target="_blank" title="issued by ServiceNow (2026)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/1c3da05b-4351-4564-937b-5ae3add49a97/blob" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/coursera/badge/google-it-support-professional-certificate-v-3" target="_blank" title="issued by Coursera (2026)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/coursera/badge/devops-essentials.2" target="_blank" title="issued by Coursera and authorized by IBM (2026)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/coursera/badge/introduction-to-cloud-computing" target="_blank" title="issued by Coursera and authorized by IBM (2026)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/aviatrix/badge/multicloud-network-associate" target="_blank" title="issued by Aviatrix (2026)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/coursera/badge/hardware-and-operating-system-essentials" target="_blank" title="issued by Coursera and authorized by IBM (2025)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/74e18558-da29-41a1-9850-fa73231327a0/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/isc2/badge/isc2-candidate" target="_blank" title="issued by ISC2 (2025)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/servicenow-new/badge/micro-certification-welcome-to-servicenow" target="_blank" title="issued by ServiceNow (2025)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/5a1dc59c-5961-40f6-88dd-3e6c366a3620/Credential_Badge_-_Micro-Cert_-_Welcome_to_ServiceNow.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence" target="_blank" title="issued by IBM SkillsBuild (2025)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/coursera/badge/technical-support-basics" target="_blank" title="issued by Coursera and authorized by IBM (2025)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/8b1dd44e-9a13-420b-b755-d100b13f1321/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/mckinsey-org/badge/mckinsey-org-forward-program" target="_blank" title="issued by McKinsey.org (2025)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/google-cloud/badge/cloud-speech-api-3-ways-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/4ddcd71a-7d89-4f86-bb85-adab564f16f1/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/google-cloud/badge/app-engine-3-ways-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/0943ce78-1ef7-4ff4-8ad7-4b60f6de5e5f/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-eventarc-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/5aa8a83f-22d6-4aa2-9a65-f95290187ce3/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-dataplex-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/1aa38026-5e9d-45f5-becc-288601568ad5/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-looker-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/6f45928f-206d-4340-98fd-ef9605fd8606/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-api-gateway-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/79d45afd-9552-447b-96d0-b4c2037f59be/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-pub-sub-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-cloud-storage-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/8fae0693-0a1a-4c15-b3b6-10b4104d0e30/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/google-cloud/badge/the-basics-of-google-cloud-compute-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png" width="90" alt="" />
-    </a> <a href="https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip" target="_blank" title="issued by OPSWAT (2024)"
-       style="text-decoration:none;">
-      <img src="https://images.credly.com/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="90" alt="" />
-    </a>
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/servicenow-new/badge/certified-implementation-specialist-data-foundation" target="_blank" title="issued by ServiceNow (2026)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/1c3da05b-4351-4564-937b-5ae3add49a97/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/coursera/badge/google-it-support-professional-certificate-v-3" target="_blank" title="issued by Coursera (2026)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/f3f0fb7b-4d69-47b0-acd6-c9264725a518/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/coursera/badge/devops-essentials.2" target="_blank" title="issued by Coursera (2026)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/coursera/badge/introduction-to-cloud-computing" target="_blank" title="issued by Coursera (2026)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/aviatrix/badge/multicloud-network-associate" target="_blank" title="issued by Aviatrix (2026)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/coursera/badge/hardware-and-operating-system-essentials" target="_blank" title="issued by Coursera (2025)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/74e18558-da29-41a1-9850-fa73231327a0/image.png" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/isc2/badge/isc2-candidate" target="_blank" title="issued by ISC2 (2025)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/servicenow-new/badge/micro-certification-welcome-to-servicenow" target="_blank" title="issued by ServiceNow (2025)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/5a1dc59c-5961-40f6-88dd-3e6c366a3620/Credential_Badge_-_Micro-Cert_-_Welcome_to_ServiceNow.png" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence" target="_blank" title="issued by IBM SkillsBuild (2025)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/coursera/badge/technical-support-basics" target="_blank" title="issued by Coursera (2025)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/8b1dd44e-9a13-420b-b755-d100b13f1321/image.png" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/mckinsey-org/badge/mckinsey-org-forward-program" target="_blank" title="issued by McKinsey.org (2025)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/google-cloud/badge/implement-speech-and-language-solutions-with-pre-tr" target="_blank" title="issued by Google Cloud (2024)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/1e28665a-38ab-4569-bdcb-706cbcbd9b63/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/google-cloud/badge/build-event-driven-applications-with-eventarc" target="_blank" title="issued by Google Cloud (2024)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/7466c1ae-92f3-4988-ba3e-cec2d7ad4dc1/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/google-cloud/badge/deploy-and-manage-applications-on-google-app-engine" target="_blank" title="issued by Google Cloud (2024)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/3f7aa8de-4e83-4fc8-95a8-ff28ec3cdb61/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-dataplex-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/1aa38026-5e9d-45f5-becc-288601568ad5/image.png" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-looker-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/6f45928f-206d-4340-98fd-ef9605fd8606/image.png" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/google-cloud/badge/deploy-and-secure-serverless-apis-with-api-gateway" target="_blank" title="issued by Google Cloud (2024)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/bb5df9eb-54d0-4671-bed3-efb034c0682d/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/google-cloud/badge/implement-event-driven-messaging-and-automation-wor" target="_blank" title="issued by Google Cloud (2024)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/81d18a6f-00e5-42bf-83ca-c05f61b72f84/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/google-cloud/badge/implement-cloud-storage-and-data-protection-solutio" target="_blank" title="issued by Google Cloud (2024)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/88e2d83e-e9ab-4615-a98b-c8536869e4e6/blob" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/google-cloud/badge/the-basics-of-google-cloud-compute-skill-badge" target="_blank" title="issued by Google Cloud (2024)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png" width="90" alt="" />
+  </a>
+  <a href="https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip" target="_blank" title="issued by OPSWAT (2024)"
+     style="text-decoration:none;">
+    <img src="https://images.credly.com/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="90" alt="" />
+  </a>
 </div>
 
 <!-- CREDLY_BADGES_END -->
